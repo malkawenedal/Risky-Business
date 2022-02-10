@@ -4,7 +4,7 @@
 in this assignment we will build and evaluate several machine learning models to predict credit risk .we  will need to employ different techniques for training and evaluating models with imbalanced classes. using  the imbalanced-learn and Scikit-learn libraries to build and evaluate models.
 
 ## Files
-[Credit_Risk_Ensamble](redit_risk_ensemble.ipynb)
+[Credit_Risk_Ensamble](credit_risk_ensemble.ipynb)
 
 [Credit_Risk_Resample](credit_risk_resampling.ipynb)
 
